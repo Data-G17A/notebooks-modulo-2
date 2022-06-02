@@ -1,1 +1,1 @@
-# notebooks-modulo-2
+# Notebook de la sesión 2
