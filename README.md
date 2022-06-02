@@ -1,1 +1,3 @@
-# Notebook de la sesión 2
+# Módulo 2. Introducción a la Ciencia de Datos
+
+
