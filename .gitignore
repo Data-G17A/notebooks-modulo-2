@@ -94,4 +94,5 @@ $RECYCLE.BIN/
 venv/
 ./sesion-2/venv
 ./sesion-3/venv
-sesion-04/data/
+sesion-04/data
+sesion-05/data
